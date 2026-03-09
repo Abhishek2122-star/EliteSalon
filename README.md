@@ -1,1 +1,1 @@
-# EliteSaloon
+# EliteSalon
